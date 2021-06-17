@@ -12,5 +12,5 @@ public class Task09 {
       F = 1 / (Math.pow(x, 2) + 1);
       System.out.println("F = " + F);
     }
-  }
+  } // Молодец
 }
